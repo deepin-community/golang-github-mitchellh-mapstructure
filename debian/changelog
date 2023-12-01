@@ -1,3 +1,27 @@
+golang-github-mitchellh-mapstructure (1.5.0-2) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository-Browse.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Mon, 21 Nov 2022 00:27:12 +0000
+
+golang-github-mitchellh-mapstructure (1.5.0-1) unstable; urgency=medium
+
+  [ Tianon Gravi ]
+  * Remove self from Uploaders
+
+  [ Anthony Fok ]
+  * New upstream version 1.5.0
+  * Bump Standards-Version to 4.6.1 (no change)
+
+ -- Anthony Fok <foka@debian.org>  Sun, 05 Jun 2022 04:53:11 -0600
+
+golang-github-mitchellh-mapstructure (1.4.3-1) unstable; urgency=medium
+
+  * New upstream version 1.4.3
+
+ -- Anthony Fok <foka@debian.org>  Wed, 15 Dec 2021 23:31:24 -0700
+
 golang-github-mitchellh-mapstructure (1.4.2-1) unstable; urgency=medium
 
   * New upstream version 1.4.2
