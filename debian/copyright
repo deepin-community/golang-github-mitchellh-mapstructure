@@ -1,6 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: mapstructure
 Source: https://github.com/mitchellh/mapstructure
+Upstream-Name: mapstructure
+Upstream-Contact: Mitchell Hashimoto <mitchell.hashimoto@gmail.com>
 
 Files: *
 Copyright: 2013–2018 Mitchell Hashimoto <mitchell.hashimoto@gmail.com>
